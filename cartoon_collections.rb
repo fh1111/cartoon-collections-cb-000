@@ -3,8 +3,7 @@ def roll_call_dwarves (names)# code an argument here
   for i in names.lenght do
     puts "#{names[i]}/n"
   end
-  
-  # Your code here
+
 end
 
 def summon_captain_planet# code an argument here
