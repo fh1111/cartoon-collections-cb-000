@@ -1,7 +1,7 @@
 def roll_call_dwarves (names)# code an argument here
 
   i=0
-  for i in names.length do
+  for i in names do
     puts "#{names[i]}/n"
   end
 
